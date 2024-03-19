@@ -12,3 +12,4 @@ These projects may misleadingly operate as if they were proper open-source or fr
  - [Terraform](https://github.com/hashicorp/terraform) - Tool for infrastructure management (building, changing, and versioning). Their [terms of use](https://github.com/hashicorp/terraform/blob/main/LICENSE).
  - [n8n](https://github.com/n8n-io/n8n) - Workflow automation tool. Their [terms of use](https://github.com/n8n-io/n8n/blob/master/LICENSE.md).
  - [Sentry](https://github.com/getsentry/sentry) - Error tracking and performance monitoring. Their [terms of use](https://github.com/getsentry/sentry/blob/master/LICENSE.md).
+ - [tldraw](https://github.com/tldraw/tldraw) - Infinite canvas. Their [terms of use](https://github.com/tldraw/tldraw/blob/main/LICENSE.md).
