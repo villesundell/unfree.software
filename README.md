@@ -12,9 +12,10 @@ These projects may misleadingly operate as if they were proper open-source or fr
  - [Terraform](https://github.com/hashicorp/terraform) - Tool for infrastructure management (building, changing, and versioning). Their [terms of use](https://github.com/hashicorp/terraform/blob/main/LICENSE).
  - [n8n](https://github.com/n8n-io/n8n) - Workflow automation tool. Their [terms of use](https://github.com/n8n-io/n8n/blob/master/LICENSE.md).
  - [Sentry](https://github.com/getsentry/sentry) - Error tracking and performance monitoring. Their [terms of use](https://github.com/getsentry/sentry/blob/master/LICENSE.md).
+ - [Metabase Enterprise Edition](https://github.com/metabase/metabase) - Business intelligence. Their [terms of use](https://github.com/metabase/metabase/blob/master/enterprise/LICENSE.txt).
  - [tldraw](https://github.com/tldraw/tldraw) - Infinite canvas. Their [terms of use](https://github.com/tldraw/tldraw/blob/main/LICENSE.md).
  - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Multi-person keypoint detection. Their [terms of use](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/LICENSE).
  - [Vault](https://github.com/hashicorp/vault) - Manager for secrets. Their [terms of use](https://github.com/hashicorp/vault/blob/main/LICENSE).
  - [Hover](https://github.com/IanLunn/Hover) - CSS3 powered hover effects. Their [terms of use](https://github.com/IanLunn/Hover/blob/master/license.txt).
- - [AFFiNE Backend Server](https://github.com/toeverything/AFFiNE/) - Next-gen knowledge base. Their [terms of use](https://github.com/toeverything/AFFiNE/blob/canary/packages/backend/server/LICENSE).
- - [CockroachDB](https://github.com/cockroachdb/cockroach/) - Cloud-native distributed SQL database. Their [terms of use](https://github.com/cockroachdb/cockroach/blob/master/LICENSE).
+ - [AFFiNE Backend Server](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base. Their [terms of use](https://github.com/toeverything/AFFiNE/blob/canary/packages/backend/server/LICENSE).
+ - [CockroachDB](https://github.com/cockroachdb/cockroach) - Cloud-native distributed SQL database. Their [terms of use](https://github.com/cockroachdb/cockroach/blob/master/LICENSE).
