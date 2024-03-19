@@ -11,3 +11,4 @@ These projects may misleadingly operate as if they were proper open-source or fr
  - [Llama 2](https://github.com/meta-llama/llama) - Large Language Model ("AI") from Meta. Their [terms of use](https://github.com/meta-llama/llama/blob/main/LICENSE).
  - [Terraform](https://github.com/hashicorp/terraform) - Tool for infrastructure management (building, changing, and versioning). Their [terms of use](https://github.com/hashicorp/terraform/blob/main/LICENSE).
  - [n8n](https://github.com/n8n-io/n8n) - Workflow automation tool. Their [terms of use](https://github.com/n8n-io/n8n/blob/master/LICENSE.md).
+ - [Sentry](https://github.com/getsentry/sentry) - Error tracking and performance monitoring. Their [terms of use](https://github.com/getsentry/sentry/blob/master/LICENSE.md).
