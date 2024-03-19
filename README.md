@@ -5,3 +5,6 @@ These projects may misleadingly operate as if they were proper open-source or fr
 
 ## Software with "all rights reserved"
  - [Quadratic](https://github.com/quadratichq/quadratic) - Data Science Spreadsheet.
+
+## Software with unfree licensing
+ - [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) - Tool for building interactive roadmaps. Their [terms of use](https://github.com/kamranahmedse/developer-roadmap/blob/master/license).
