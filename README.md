@@ -8,3 +8,4 @@ These projects may misleadingly operate as if they were proper open-source or fr
 
 ## Software with unfree licensing
  - [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) - Tool for building interactive roadmaps. Their [terms of use](https://github.com/kamranahmedse/developer-roadmap/blob/master/license).
+ - [Llama 2](https://github.com/meta-llama/llama) - Large Language Model ("AI") from Meta. Their [terms of use](https://github.com/meta-llama/llama/blob/main/LICENSE).
