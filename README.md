@@ -15,3 +15,4 @@ These projects may misleadingly operate as if they were proper open-source or fr
  - [tldraw](https://github.com/tldraw/tldraw) - Infinite canvas. Their [terms of use](https://github.com/tldraw/tldraw/blob/main/LICENSE.md).
  - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Multi-person keypoint detection. Their [terms of use](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/LICENSE).
  - [Vault](https://github.com/hashicorp/vault) - Manager for secrets. Their [terms of use](https://github.com/hashicorp/vault/blob/main/LICENSE).
+ - [Hover](https://github.com/IanLunn/Hover) - CSS3 powered hover effects. Their [terms of use](https://github.com/IanLunn/Hover/blob/master/license.txt).
