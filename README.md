@@ -17,3 +17,4 @@ These projects may misleadingly operate as if they were proper open-source or fr
  - [Vault](https://github.com/hashicorp/vault) - Manager for secrets. Their [terms of use](https://github.com/hashicorp/vault/blob/main/LICENSE).
  - [Hover](https://github.com/IanLunn/Hover) - CSS3 powered hover effects. Their [terms of use](https://github.com/IanLunn/Hover/blob/master/license.txt).
  - [AFFiNE Backend Server](https://github.com/toeverything/AFFiNE/) - Next-gen knowledge base. Their [terms of use](https://github.com/toeverything/AFFiNE/blob/canary/packages/backend/server/LICENSE).
+ - [CockroachDB](https://github.com/cockroachdb/cockroach/) - Cloud-native distributed SQL database. Their [terms of use](https://github.com/cockroachdb/cockroach/blob/master/LICENSE).
